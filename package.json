@@ -1,0 +1,16 @@
+{
+    "name": "test-dtbdh",
+    "version": "1.0.1",
+    "main": "c.js",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/DeepakTagore/Calculator.git"
+    },
+    "keywords": [
+        "Calculator"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
